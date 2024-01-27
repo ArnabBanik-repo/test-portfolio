@@ -1,0 +1,13 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "personal portfolio",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["portfolio"],
+  "author": "Arnab Banik",
+  "license": "GPL-3.0-only"
+}
